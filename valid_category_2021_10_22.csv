@@ -1,0 +1,63 @@
+,category_id,market_cap,name,updated_at
+0,smart-contract-platform,738115354883.4977,Smart Contract Platform,2021-10-22T21:05:33.591Z
+1,exchange-based-tokens,145039757680.79962,Exchange-based Tokens,2021-10-22T21:05:35.932Z
+2,decentralized-finance-defi,144127186272.38104,Decentralized Finance (DeFi),2021-10-22T21:05:32.856Z
+3,stablecoins,133972879294.1801,Stablecoins,2021-10-22T21:05:36.853Z
+4,binance-smart-chain,111697809430.32954,Binance Smart Chain Ecosystem,2021-10-22T21:05:30.198Z
+5,centralized-exchange-token-cex,109772004300.10374,Centralized Exchange Token (CEX),2021-10-22T21:05:04.723Z
+6,solana-ecosystem,88237077151.29433,Solana Ecosystem,2021-10-22T21:05:04.285Z
+7,dot-ecosystem,71240139903.20174,Polkadot Ecosystem,2021-10-22T21:05:32.362Z
+8,polygon-ecosystem,55965893796.983086,Polygon Ecosystem,2021-10-22T21:05:17.621Z
+9,meme-token,47795335799.82134,Meme Tokens,2021-10-22T21:05:18.000Z
+10,cosmos-ecosystem,44061285252.78417,Cosmos Ecosystem,2021-10-22T21:05:01.890Z
+11,governance,44035758143.21528,Governance,2021-10-22T21:05:35.002Z
+12,yield-farming,37770474454.27008,Yield Farming,2021-10-22T21:05:29.675Z
+13,decentralized-exchange,37377471298.424545,Decentralized Exchange Token (DEX),2021-10-22T21:05:15.802Z
+14,non-fungible-tokens-nft,35810193213.56144,Non-Fungible Tokens (NFT),2021-10-22T21:05:24.222Z
+15,near-protocol-ecosystem,31510424666.500256,Near Protocol Ecosystem,2021-10-22T21:05:21.789Z
+16,automated-market-maker-amm,26384875342.382156,Automated Market Maker (AMM),2021-10-22T21:05:23.730Z
+17,xdai-ecosystem,25546446601.24953,xDAI Ecosystem,2021-10-22T21:05:18.485Z
+18,asset-backed-tokens,22504581419.755043,Asset-backed Tokens,2021-10-22T21:05:37.309Z
+19,terra-ecosystem,21594449267.714527,Terra Ecosystem,2021-10-22T21:05:17.165Z
+20,finance-banking,18495380412.345016,Finance / Banking,2021-10-22T21:05:09.586Z
+21,avalanche-ecosystem,18282203493.612106,Avalanche Ecosystem,2021-10-22T21:05:08.582Z
+22,storage,16761764046.420616,Storage,2021-10-22T21:05:31.871Z
+23,internet-of-things-iot,16283427068.78614,Internet of Things (IOT),2021-10-22T21:05:10.529Z
+24,gaming,15782206274.145159,Gaming,2021-10-22T21:05:30.631Z
+25,harmony-ecosystem,15715279427.661371,Harmony Ecosystem,2021-10-22T21:05:01.428Z
+26,oracle,15117398161.637472,Oracle,2021-10-22T21:05:34.086Z
+27,wrapped-tokens,14957052213.554285,Wrapped-Tokens,2021-10-22T21:05:06.732Z
+28,privacy-coins,14813012387.135653,Privacy Coins,2021-10-22T21:05:36.401Z
+29,lending-borrowing,13598807460.951342,Lending/Borrowing,2021-10-22T21:05:05.757Z
+30,play-to-earn,10301163376.239513,Play To Earn,2021-10-22T21:05:22.130Z
+31,fantom-ecosystem,7477111873.299717,Fantom Ecosystem,2021-10-22T21:05:20.713Z
+32,eth-2-0-staking,6712329137.627765,Eth 2.0 Staking,2021-10-22T21:05:07.360Z
+33,sports,6213847797.931633,Sports,2021-10-22T21:05:39.031Z
+34,decentralized-derivatives,5369029110.031545,Derivatives,2021-10-22T21:05:03.856Z
+35,analytics,4816887071.900391,Analytics,2021-10-22T21:05:33.244Z
+36,yearn-yfi-partnerships-mergers,4519704288.050027,Yearn Ecosystem,2021-10-22T21:05:02.411Z
+37,yield-aggregator,4218784402.41581,Yield Aggregator,2021-10-22T21:05:09.109Z
+38,masternodes,4166888657.5289507,Masternodes,2021-10-22T21:05:35.413Z
+39,rebase-tokens,3979110748.587702,Rebase Tokens,2021-10-22T21:05:28.436Z
+40,celo-ecosystem,3672335934.9242563,Celo Ecosystem,2021-10-22T21:05:22.744Z
+41,seigniorage,3540211146.5683055,Seigniorage,2021-10-22T21:05:02.883Z
+42,metaverse,3064890567.6663094,Metaverse,2021-10-22T21:05:01.093Z
+43,synthetic-assets,3007562563.3990116,Synthetic Issuer,2021-10-22T21:05:16.278Z
+44,decentralized-perpetuals,2916621195.514539,Perpetuals,2021-10-22T21:05:05.249Z
+45,olympus-pro,1961682086.5836189,Olympus Pro,2021-10-22T21:05:22.396Z
+46,zilliqa-ecosystem,1548714350.1869838,Zilliqa Ecosystem,2021-10-22T21:05:19.184Z
+47,mev-protection,1488816024.5824995,MEV Protection,2021-10-22T21:05:18.887Z
+48,insurance,1399827463.1200836,Insurance,2021-10-22T21:05:03.355Z
+49,heco-chain-ecosystem,982174992.5237788,HECO Chain Ecosystem,2021-10-22T21:05:19.469Z
+50,synths,978012563.8927383,Synths,2021-10-22T21:05:31.084Z
+51,music,865401606.1656017,Music,2021-10-22T21:05:10.089Z
+52,prediction-markets,794567162.312691,Prediction Markets,2021-10-22T21:05:06.211Z
+53,daomaker-ecosystem,687963904.5699233,DaoMaker Ecosystem,2021-10-22T21:05:23.259Z
+54,decentralized-options,530842438.60432786,Options,2021-10-22T21:05:27.194Z
+55,defi-index,465835722.82977,DeFi Index,2021-10-22T21:05:00.505Z
+56,gambling,442267646.9444408,Gambling,2021-10-22T21:05:10.996Z
+57,social-money,423292436.05815804,Social Money,2021-10-22T21:05:34.529Z
+58,fan-token,331975733.8180639,Fan Token,2021-10-22T21:05:16.751Z
+59,tourism,276758162.486487,Tourism,2021-10-22T21:05:38.594Z
+60,aave-tokens,0.0,Aave Tokens,2021-10-22T21:05:31.517Z
+61,arbitrum-ecosystem,0.0,Arbitrum Ecosystem,2021-10-22T21:05:23.043Z

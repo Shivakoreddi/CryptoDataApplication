@@ -1,0 +1,51 @@
+,country,exchange_type,id,name,open_interest_btc,trade_volume_24h_btc,url,year_established
+0,,derivatives,binance_futures,Binance (Futures),237166.81,1400465.39,https://www.binance.com/,2019.0
+1,Antigua and Barbuda,derivatives,ftx,FTX (Derivatives),151866.04,267848.57,https://ftx.com/,2019.0
+2,,derivatives,bybit,Bybit,87904.86,225992.95,https://www.bybit.com/,2018.0
+3,,derivatives,okex_swap,OKEx (Futures),70305.72,445620.63,https://www.okex.com/futureTrade,
+4,,derivatives,kumex,KuCoin Futures,53571.43,39545.31,https://futures.kucoin.com/trade,2019
+5,Seychelles,derivatives,huobi_dm,Huobi Futures,43945.38,188249.67,https://www.hbdm.com/en-us/,
+6,British Virgin Islands,derivatives,bitfinex_futures,Bitfinex (Futures),35515.94,4293.13,https://www.bitfinex.com/,2019
+7,Netherlands,derivatives,deribit,Deribit,30083.19,26589.64,https://www.deribit.com,2014
+8,,derivatives,bitget_futures,Bitget Futures,27204.06,103414.5,https://www.bitget.com/en/,
+9,,derivatives,dydx_perpetual,dYdX Perpetual,22724.73,71325.43,https://trade.dydx.exchange/r/coingecko,
+10,British Virgin Islands,derivatives,phemex_futures,Phemex (Futures),20566.71,39305.09,https://www.phemex.com,2019
+11,British Virgin Islands,derivatives,btse_futures,BTSE (Futures),18165.36,24500.56,https://www.btse.com/en/futures/,2018
+12,British Virgin Islands,derivatives,c_trade,C-Trade,16979.24,3369.37,https://www.c-trade.com,2019
+13,Seychelles,derivatives,bitmex,BitMEX,16238.48,37576.06,https://www.bitmex.com/,
+14,Hong Kong,derivatives,gate_futures,Gate.io (Futures),13947.76,41843.15,https://www.gate.io/futures_trade/BTC_USD,
+15,Seychelles,derivatives,prime_xbt,Prime XBT,10604.32,21052.95,https://primexbt.com,
+16,Seychelles,derivatives,coinflex_futures,CoinFLEX (Futures),5854.36,125078.32,https://coinflex.com/,2019
+17,Seychelles,derivatives,bitforex_futures,Bitforex (Futures),5395.71,51226.45,https://www.bitforex.com/en/perpetual/btc_usd,2018
+18,China,derivatives,zbg_futures,ZBG Futures,4053.41,2665.11,https://futures.zbg.com/,2020
+19,United States,derivatives,kraken_futures,Kraken (Futures),3882.56,8088.68,https://futures.kraken.com/,2019
+20,,derivatives,perpetual_protocol,Perpetual Protocol,1320.39,1219.09,https://referral.perp.exchange?code=coingecko,
+21,Malta,derivatives,aax_futures,AAX Futures,1152.37,7548.61,https://www.aax.com/,2019
+22,,derivatives,bitmax_futures,AscendEX  (BitMax) (Futures),791.24,634.19,https://ascendex.com/en/futures-perpetualcontract-trading/btc-perp,2020
+23,Seychelles,derivatives,basefex,BaseFEX,705.92,803.8,https://basefex.com,2018
+24,,derivatives,poloniex_futures,Poloniex Futures,451.36,178.48,,
+25,,derivatives,bigone_futures,BigONE Futures,105.88,18652.55,,
+26,Seychelles,derivatives,bit_com_futures,Bit.com,73.34,402.2,https://www.bit.com,2020
+27,,derivatives,acdx_futures,ACDX Futures,60.22,1646.23,https://www.acdx.io/,
+28,Singapore,derivatives,cointiger_futures,CoinTiger (Futures),,178748.01,https://futures.cointiger.com/,
+29,,derivatives,crypto_com_futures,Crypto.com Exchange (Futures),,12478.76,https://crypto.com/exchange/perpetual/,2021
+30,,derivatives,stormgain_futures,Stormgain Futures,,9957.4,https://stormgain.com/?utm_id=1DSE&utm_source=coingecko_storm&utm_medium=media&utm_campaign=listing&utm_country=en,
+31,Japan,derivatives,gmo_japan_futures,GMO Japan (Futures),,7827.99,https://coin.z.com/jp/,2016
+32,Japan,derivatives,bitflyer_futures,Bitflyer (Futures),,3662.65,https://lightning.bitflyer.com/,2014
+33,Saint Vincent and the Grenadines,derivatives,delta_futures,Delta Exchange (Futures),,3281.64,https://www.delta.exchange/app/futures/markets,2018
+34,,derivatives,bakkt,Bakkt,,633.45,https://www.theice.com/products/72035464/Bakkt-Bitcoin-USD-Monthly-Futures/,
+35,Hong Kong,derivatives,equos_perpetual,EQONEX (Perpetual),,423.53,https://eqonex.com,2020
+36,China,derivatives,bibox_futures,Bibox (Futures),,309.19,https://www.bibox.com/,2019
+37,Singapore,derivatives,mcdex,MCDEX,,53.95,https://mcdex.io/,
+38,Malta,derivatives,hbtc_futures,BHEX (Futures),,44.14,https://www.hbtc.com,2018
+39,Seychelles,derivatives,leverj,Leverj,,0.05,https://live.leverj.io/,2019
+40,Seychelles,derivatives,bithumb_futures,Bithumb (Futures),,0.0,https://bithumbfutures.com/,2019
+41,,derivatives,bitz_futures,BitZ (Futures),,0.0,https://swap.bitz.top/trade/101,2019
+42,,derivatives,mxc_futures,MEXC Global (Futures),,0.0,,
+43,Belize,derivatives,duedex,DueDEX,,0.0,https://www.DueDEX.com/,2019
+44,Cayman Islands,derivatives,btcmex,BTCMEX,,0.0,https://www.btcmex.com,219
+45,Japan,derivatives,liquid_derivatives,Liquid Perpetuals,,0.0,https://www.liquid.com/pro/,2020
+46,,derivatives,biki_futures,Biki (Futures),,0.0,,
+47,Seychelles,derivatives,hopex,Hopex,,0.0,https://web.hopex.com/home,2020
+48,Seychelles,derivatives,jex_futures,Binance JEX (Futures),,0.0,https://www.jex.com/en,2019
+49,United States,derivatives,cme_futures,CME Bitcoin Futures,,0.0,https://www.cmegroup.com/trading/bitcoin-futures.html,2017

@@ -1,0 +1,101 @@
+,country,exchange_type,id,image,name,trade_volume_24h_btc,trust_score,trust_score_rank,url,year_established
+0,Cayman Islands,spot,binance,https://assets.coingecko.com/markets/images/52/small/binance.jpg?1519353250,Binance,436272.02106340433,10.0,1.0,https://www.binance.com/,2017.0
+1,Hong Kong,spot,gate,https://assets.coingecko.com/markets/images/60/small/gateio.jpg?1519793974,Gate.io,245596.61243599062,10.0,2.0,https://gate.io/,
+2,United States,spot,gdax,https://assets.coingecko.com/markets/images/23/small/Coinbase_Coin_Primary.png?1621471875,Coinbase Exchange,86838.5475525023,10.0,3.0,https://www.coinbase.com,2012
+3,Seychelles,spot,huobi,https://assets.coingecko.com/markets/images/25/small/1481589873352_.pic_hd.jpg?1589962155,Huobi Global,74618.89918002776,10.0,4.0,https://www.huobi.com,2013
+4,Antigua and Barbuda,spot,ftx_spot,https://assets.coingecko.com/markets/images/451/small/F.png?1609051590,FTX,60766.478701493,10.0,5.0,https://ftx.com/,2019
+5,Cayman Islands,spot,crypto_com,https://assets.coingecko.com/markets/images/589/small/Crypto.jpg?1629861084,Crypto.com Exchange,47438.05224759849,10.0,6.0,https://crypto.com/exchange,2019
+6,Seychelles,spot,kucoin,https://assets.coingecko.com/markets/images/61/small/kucoin.jpg?1591610627,KuCoin,40853.3537948673,10.0,7.0,https://www.kucoin.com/,2014
+7,United States,spot,kraken,https://assets.coingecko.com/markets/images/29/small/kraken.jpg?1584251255,Kraken,24827.421400816547,10.0,8.0,https://r.kraken.com/Q1m9x,2011
+8,British Virgin Islands,spot,bitfinex,https://assets.coingecko.com/markets/images/4/small/BItfinex.png?1615895883,Bitfinex,20768.679339170078,10.0,9.0,https://www.bitfinex.com,2014
+9,United States,spot,binance_us,https://assets.coingecko.com/markets/images/469/small/Binance.png?1568875842,Binance US,15169.22907869678,10.0,10.0,https://www.binance.us/en,2019
+10,,spot,wootrade,https://assets.coingecko.com/markets/images/683/small/wootrade.jpg?1624621149,WOO Network,14132.562223303066,10.0,11.0,https://woo.org/,2019
+11,United States,spot,gemini,https://assets.coingecko.com/markets/images/50/small/gemini.png?1605704107,Gemini,4494.893185752834,10.0,12.0,https://gemini.sjv.io/bZ49k,2014
+12,Singapore,spot,bitrue,https://assets.coingecko.com/markets/images/254/small/bitrue-exchange.jpg?1537878894,Bitrue,44256.707368834075,9.0,13.0,https://www.bitrue.com/,2018
+13,Cayman Islands,spot,bitmart,https://assets.coingecko.com/markets/images/239/small/Bitmart.png?1628066397,BitMart,24279.22736031233,9.0,14.0,https://www.bitmart.com/en,2017
+14,Turkey,spot,btcturk,https://assets.coingecko.com/markets/images/223/small/BTCTurk-exchange.jpg?1536726120,BtcTurk PRO,9127.205102687087,9.0,15.0,https://pro.btcturk.com/,2013
+15,United Kingdom,spot,bitstamp,https://assets.coingecko.com/markets/images/9/small/bitstamp.jpg?1519627979,Bitstamp,8298.089016235883,9.0,16.0,https://www.bitstamp.net/,2013
+16,Seychelles,spot,bithumb_global,https://assets.coingecko.com/markets/images/405/small/bithumbglobal.jpg?1599652253,Bithumb Global,5711.261889995102,9.0,17.0,https://bithumb.pro/,2019
+17,British Virgin Islands,spot,btse,https://assets.coingecko.com/markets/images/464/small/BTSE.jpg?1568012415,BTSE,3583.223587836626,9.0,18.0,https://www.btse.com/,2018
+18,Singapore,spot,bitmax,https://assets.coingecko.com/markets/images/277/small/AscendEX.png?1616471675,AscendEX (BitMax),3464.0987475541656,9.0,19.0,https://ascendex.com/en/global-digital-asset-platform,2018
+19,United States,spot,bittrex,https://assets.coingecko.com/markets/images/10/small/BG-color-250x250_icon.png?1596167574,Bittrex,2525.312415335763,9.0,20.0,https://bittrex.com/,2014
+20,Japan,spot,bitbank,https://assets.coingecko.com/markets/images/122/small/bitbank.jpg?1521186278,Bitbank,2278.3532635914185,9.0,21.0,https://bitbank.cc/,2016
+21,Thailand,spot,bitkub,https://assets.coingecko.com/markets/images/249/small/bitkub.png?1537180687,Bitkub,1890.2981654399427,9.0,22.0,https://www.bitkub.com,2018
+22,United Kingdom,spot,cex,https://assets.coingecko.com/markets/images/56/small/main-icon.png?1617267530,CEX.IO,868.5351137421628,9.0,23.0,https://cex.io/,2013
+23,Mexico,spot,bitso,https://assets.coingecko.com/markets/images/8/small/Bitso-icon-dark.png?1581909156,Bitso,503.33639515607433,9.0,24.0,https://bitso.com,2014
+24,Estonia,spot,b2bx,https://assets.coingecko.com/markets/images/226/small/b2bx.jpg?1534242273,B2BX,221.32585618203146,9.0,25.0,https://www.b2bx.exchange/,2017
+25,Slovenia,spot,nice_hash,https://assets.coingecko.com/markets/images/546/small/nicehash.png?1594379914,NiceHash,58.24759429233636,9.0,26.0,https://www.nicehash.com,
+26,Belize,spot,okex,https://assets.coingecko.com/markets/images/96/small/okEX.jpg?1519349636,OKEx,125522.75522473903,8.0,27.0,https://www.okex.com,2013
+27,Bahamas,spot,bitcoin_com,https://assets.coingecko.com/markets/images/467/small/Y7cNgi9V_400x400.jpg?1632998589,FMFW.io,78594.81542206675,8.0,28.0,https://fmfw.io/,2019
+28,China,spot,zb,https://assets.coingecko.com/markets/images/115/small/zb.jpg?1519996151,ZB,29081.364798180744,8.0,29.0,https://www.zb.land/en/,2017
+29,Seychelles,spot,xt,https://assets.coingecko.com/markets/images/404/small/logo400x400.png?1575881839,XT.COM,23791.799326569995,8.0,30.0,https://www.xt.com/,2018
+30,Seychelles,spot,digifinex,https://assets.coingecko.com/markets/images/225/small/DF_logo.png?1594264355,Digifinex,23400.200398830202,8.0,31.0,https://www.digifinex.com/,2018
+31,Estonia,spot,coinsbit,https://assets.coingecko.com/markets/images/267/small/Coinsbit.png?1605153697,Coinsbit,20039.611791375315,8.0,32.0,https://coinsbit.io/,
+32,South Korea,spot,bithumb,https://assets.coingecko.com/markets/images/6/small/bithumb_BI.png?1573104549,Bithumb,19731.898533641357,8.0,33.0,https://www.bithumb.com/,2014
+33,Estonia,spot,p2pb2b,https://assets.coingecko.com/markets/images/251/small/p2pb2b.jpg?1536307348,P2PB2B,18416.48989813357,8.0,34.0,https://p2pb2b.io,2018
+34,Seychelles,spot,coinflex,https://assets.coingecko.com/markets/images/446/small/CoinFlex.png?1579227306,CoinFLEX,126847.75995955648,8.0,35.0,https://coinflex.com/,2019
+35,,spot,mxc,https://assets.coingecko.com/markets/images/409/small/WeChat_Image_20210622160936.png?1624349423,MEXC Global,12085.11506150858,8.0,36.0,https://www.mexc.com/,2018
+36,Cayman Islands,spot,latoken,https://assets.coingecko.com/markets/images/124/small/LA_token.png?1605773251,LATOKEN,10334.810145202917,8.0,37.0,https://latoken.com/,2017
+37,Hong Kong,spot,goku,https://assets.coingecko.com/markets/images/590/small/GokuMarket-Logo-200-200-1.png?1601890565,GokuMarket,7277.5772804586,8.0,38.0,https://gokumarket.com,2019
+38,China,spot,bibox,https://assets.coingecko.com/markets/images/114/small/bibox.jpg?1520752603,Bibox,6413.579803672659,8.0,39.0,https://www.bibox.com/,2017
+39,Singapore,spot,cointiger,https://assets.coingecko.com/markets/images/204/small/cointiger.png?1588935091,CoinTiger,6199.35029444584,8.0,40.0,https://www.cointiger.com/,2017
+40,Japan,spot,bitflyer,https://assets.coingecko.com/markets/images/5/small/bitflyer.jpg?1519611556,bitFlyer,5031.433519197951,8.0,41.0,https://bitflyereuropesa.pxf.io/c/2223866/858437/11990,2014
+41,Seychelles,spot,poloniex,https://assets.coingecko.com/markets/images/37/small/poloniex-400.png?1632479317,Poloniex,3290.46080864615,8.0,42.0,https://poloniex.com/,2014
+42,Gibraltar,spot,etorox,https://assets.coingecko.com/markets/images/503/small/eToroX_Logo_400x400.jpg?1580209571,eToroX,1521.7361862639802,8.0,43.0,https://www.etorox.com/,2019
+43,United Kingdom,spot,dextrade,https://assets.coingecko.com/markets/images/380/small/Dex-Trade_logo_new.png?1599629803,Dex-Trade,1474.2273103199934,8.0,44.0,https://dex-trade.com/,2019
+44,Indonesia,spot,indodax,https://assets.coingecko.com/markets/images/3/small/logogram-Indodax-new-_JPG_format.jpg?1580974378,Indodax,1281.5249032797922,8.0,45.0,https://indodax.com,2014
+45,Taiwan,spot,max_maicoin,https://assets.coingecko.com/markets/images/218/small/max.jpg?1533888641,Max Maicoin,277.3174144574616,8.0,46.0,https://max.maicoin.com,
+46,Taiwan,spot,bitopro,https://assets.coingecko.com/markets/images/358/small/bitopro_coingecko_250x250_%281%29.png?1575884378,BitoPro,220.30614390116943,8.0,47.0,https://www.bitopro.com/,2018
+47,United Kingdom,spot,kuna,https://assets.coingecko.com/markets/images/97/small/kuna_exchange.png?1545126178,Kuna Exchange,30.535763924849643,8.0,48.0,https://kuna.io/,
+48,South Korea,spot,upbit,https://assets.coingecko.com/markets/images/117/small/upbit.png?1520388800,Upbit,106295.15327959665,7.0,49.0,https://upbit.com,2017
+49,Seychelles,spot,bigone,https://assets.coingecko.com/markets/images/100/small/qcFFufEY_400x400.jpg?1561103345,BigONE,19886.265036456516,7.0,50.0,https://bigone.com,2017
+50,British Virgin Islands,spot,bkex,https://assets.coingecko.com/markets/images/293/small/logo.png?1588125944,BKEX,17746.956715165426,7.0,51.0,https://www.bkex.com/,2018
+51,China,spot,lbank,https://assets.coingecko.com/markets/images/118/small/LBank%E5%9C%86%E6%A0%87.png?1572923264,LBank,17517.80836463296,7.0,52.0,https://www.lbank.info/,2017
+52,Seychelles,spot,changelly,https://assets.coingecko.com/markets/images/580/small/pro_logo_cmc.png?1600833621,Changelly PRO,72401.732824448,7.0,53.0,https://pro.changelly.com/,2020
+53,Seychelles,spot,bitforex,https://assets.coingecko.com/markets/images/214/small/BitForex-Logo.png?1573808227,Bitforex,12227.974884051677,7.0,54.0,https://www.bitforex.com/,2018
+54,Estonia,spot,whitebit,https://assets.coingecko.com/markets/images/418/small/wb_3_avatar-02.png?1611212424,WhiteBIT,11503.707074377318,7.0,55.0,https://whitebit.com,2018
+55,,spot,aax,https://assets.coingecko.com/markets/images/527/small/aax_app_logo.png?1586779427,AAX,9222.353910697811,7.0,56.0,https://www.aax.com,2019
+56,United States,spot,ftx_us,https://assets.coingecko.com/markets/images/532/small/FTX-US.jpg?1609051756,FTX.US,8201.919272610197,7.0,57.0,https://ftx.us/,2020
+57,Estonia,spot,hotbit,https://assets.coingecko.com/markets/images/201/small/hotbit.jpg?1531043195,Hotbit,5511.622348567885,7.0,58.0,https://www.hotbit.io/,
+58,Turkey,spot,paribu,https://assets.coingecko.com/markets/images/136/small/paribu.jpg?1527734779,Paribu,5355.816258720864,7.0,59.0,https://www.paribu.com/,
+59,Seychelles,spot,aex,https://assets.coingecko.com/markets/images/449/small/WeChat_Image_20210722152506.png?1626938723,AEX,5278.356734123585,7.0,60.0,https://www.aex.com/#/,2013
+60,Hong Kong,spot,finexbox,https://assets.coingecko.com/markets/images/318/small/finexbox20190920.jpg?1568959220,FinexBox,4134.051118326008,7.0,61.0,https://www.finexbox.com/,2018
+61,South Korea,spot,coinone,https://assets.coingecko.com/markets/images/20/small/coinone_circle_500x500.png?1606460853,Coinone,4125.4236663937345,7.0,62.0,https://coinone.co.kr/,2016
+62,Cayman Islands,spot,hoo,https://assets.coingecko.com/markets/images/526/small/Hoo_Logo2.jpg?1602237762,Hoo.com,3321.0893236099046,7.0,63.0,https://www.hoo.com,2019
+63,Japan,spot,coincheck,https://assets.coingecko.com/markets/images/18/small/Coincheck.jpg?1519703836,Coincheck,3170.251689309033,7.0,64.0,https://coincheck.com/,2014
+64,,spot,bybit_spot,https://assets.coingecko.com/markets/images/698/small/bybit_spot.png?1629971794,Bybit (spot),3075.3731576392197,7.0,65.0,https://www.bybit.com/en-US/,2018
+65,Malta,spot,hbtc,https://assets.coingecko.com/markets/images/475/small/BHEX_logo_V2_black_2x.png?1620022577,BHEX,6336.0077714665895,7.0,66.0,BHEX.com,2018
+66,Cayman Islands,spot,oceanex,https://assets.coingecko.com/markets/images/341/small/Oceanex.png?1548153658,Oceanex,2664.3645581803116,7.0,67.0,https://oceanex.pro,2018
+67,Hong Kong,spot,bitoffer,https://assets.coingecko.com/markets/images/456/small/S1naTFE.png?1565005583,Bitoffer,2213.1044284417085,7.0,68.0,https://www.bitoffer.com/en,2019
+68,United Kingdom,spot,coinex,https://assets.coingecko.com/markets/images/135/small/coinex.jpg?1527737297,CoinEx,2113.940396840425,7.0,69.0,https://www.coinex.com/,2017
+69,India,spot,wazirx,https://assets.coingecko.com/markets/images/274/small/wazirx.jpg?1540450020,WazirX,1697.0694407307017,7.0,70.0,https://wazirx.com/,2018
+70,Estonia,spot,kickex,https://assets.coingecko.com/markets/images/635/small/_JidUguP_400x400.jpg?1615263901,KickEX,1163.4809109133885,7.0,71.0,https://kickex.com/en,2020
+71,Estonia,spot,omgfin,https://assets.coingecko.com/markets/images/396/small/Screenshot_11.png?1556858288,Omgfin,1077.2947591309478,7.0,72.0,https://omgfin.com/exchange/,2018
+72,Singapore,spot,alterdice,https://assets.coingecko.com/markets/images/327/small/alterdice_%281%29.png?1604294926,AlterDice,990.2989427683888,7.0,73.0,https://alterdice.com/,2018
+73,United States,spot,okcoin,https://assets.coingecko.com/markets/images/415/small/okcoin_Logomark_SatoshiBlack.png?1619574335,Okcoin,956.3375103189485,7.0,74.0,https://www.okcoin.com/,2013
+74,Estonia,spot,emirex,https://assets.coingecko.com/markets/images/592/small/Emirex.png?1602067691,Emirex,774.2602625462645,7.0,75.0,https://www.emirex.com/,2019
+75,United Kingdom,spot,blockchain_com,https://assets.coingecko.com/markets/images/613/small/unnamedddd.png?1610503741,Blockchain.com,750.8506441315061,7.0,76.0,https://www.blockchain.com/,2012
+76,Singapore,spot,luno,https://assets.coingecko.com/markets/images/33/small/luno.jpg?1519996997,Luno,707.1574590783765,7.0,77.0,https://www.luno.com,2013
+77,Singapore,spot,tokenize,https://assets.coingecko.com/markets/images/383/small/tokenize-exchange.png?1586138532,Tokenize,657.7063816312483,7.0,78.0,https://tokenize.exchange/,2018
+78,Seychelles,spot,nominex,https://assets.coingecko.com/markets/images/530/small/logo-200x200.png?1587543672,Nominex,430.4358162859737,7.0,79.0,https://www.nominex.io,2019
+79,Brazil,spot,mercado_bitcoin,https://assets.coingecko.com/markets/images/34/small/icon-256.png?1621420503,Mercado Bitcoin,429.1743177957172,7.0,80.0,https://www.mercadobitcoin.com.br/,2016
+80,Australia,spot,btcmarkets,https://assets.coingecko.com/markets/images/237/small/btcmarkets-exchange.jpg?1536726060,BTCMarkets,253.41453173740777,7.0,81.0,https://www.btcmarkets.net/,
+81,,spot,stormgain,https://assets.coingecko.com/markets/images/608/small/CpDGk9Hn_400x400.png?1607582976,Stormgain,245.06127972410496,7.0,82.0,https://stormgain.com/?utm_id=1DSE&utm_source=coingecko_storm&utm_medium=media&utm_campaign=listing&utm_country=en,
+82,Australia,spot,independent_reserve,https://assets.coingecko.com/markets/images/389/small/x_V5Jquo_400x400.png?1556071437,Independent Reserve,224.58649103870627,7.0,83.0,https://www.independentreserve.com/,2013
+83,South Korea,spot,korbit,https://assets.coingecko.com/markets/images/28/small/korbit-logo.png?1584091827,Korbit,211.92856826790836,7.0,84.0,https://www.korbit.co.kr/,2013
+84,Austria,spot,bitpanda,https://assets.coingecko.com/markets/images/474/small/appicon-ios-pro.png?1622626638,Bitpanda Pro,116.46503846559655,7.0,85.0,https://exchange.bitpanda.com,2019
+85,Estonia,spot,coin_metro,https://assets.coingecko.com/markets/images/386/small/blue.png?1609256554,CoinMetro,87.11060778492109,7.0,86.0,https://coinmetro.com/,2018
+86,Turkey,spot,narkasa,https://assets.coingecko.com/markets/images/573/small/narkasa.jpg?1599029564,Narkasa,64.67135702122292,7.0,87.0,https://narkasa.com/,2020
+87,Singapore,spot,biki,https://assets.coingecko.com/markets/images/384/small/BiKi_icon.png?1573632986,BiKi,33.010511146463934,7.0,88.0,https://www.biki.cc/,2018
+88,,spot,hitbtc,https://assets.coingecko.com/markets/images/24/small/hitbtc.png?1603975458,HitBTC,80611.75692117328,6.0,89.0,https://hitbtc.com/,2013
+89,,spot,uniswap,https://assets.coingecko.com/markets/images/665/small/uniswap-v3.png?1620241698,Uniswap (v3),28003.097054967973,6.0,90.0,https://app.uniswap.org/#/swap,2018
+90,China,spot,zbg,https://assets.coingecko.com/markets/images/256/small/zbg-exchange.jpg?1537878965,ZBG,126614.99400273876,6.0,91.0,https://www.zbg.com/,2018
+91,,spot,pancakeswap_new,https://assets.coingecko.com/markets/images/687/small/pancakeswap.jpeg?1626060212,PancakeSwap (v2),14879.723391130678,6.0,92.0,https://pancakeswap.finance,2020
+92,Singapore,spot,coinbene,https://assets.coingecko.com/markets/images/109/small/CoinBene_logo.png?1607418278,CoinBene,12549.51712414076,6.0,93.0,http://www.coinbene.com/#/,2017
+93,,spot,bw,https://assets.coingecko.com/markets/images/326/small/bw.com.jpg?1548664400,BW.com,8059.276657043613,6.0,94.0,https://www.bw.com/,2017
+94,China,spot,catex,https://assets.coingecko.com/markets/images/354/small/catex.png?1550735332,Catex,7541.389282788356,6.0,95.0,https://www.catex.io/,2018
+95,,spot,uniswap_v2,https://assets.coingecko.com/markets/images/535/small/256x256_Black-1.png?1590893262,Uniswap (v2),7261.130739055448,6.0,96.0,https://app.uniswap.org/#/swap?use=V2,2018
+96,Singapore,spot,phemex,https://assets.coingecko.com/markets/images/564/small/phemex.png?1632302643,Phemex,7186.5244335562675,6.0,97.0,https://phemex.com/,2019
+97,,spot,sushiswap,https://assets.coingecko.com/markets/images/576/small/2048x2048_Logo.png?1609208464,Sushiswap,7073.426861173007,6.0,98.0,https://app.sushi.com/swap,2020
+98,,spot,traderjoe,https://assets.coingecko.com/markets/images/692/small/traderjoe.png?1628152581,Trader Joe,5605.95746005705,6.0,99.0,https://www.traderjoexyz.com/#/home,
+99,British Virgin Islands,spot,exmarkets,https://assets.coingecko.com/markets/images/363/small/42200149_2115011248752220_3911078373144657920_n.jpg?1551247813,ExMarkets,5213.462739654876,6.0,100.0,https://exmarkets.com,2018
