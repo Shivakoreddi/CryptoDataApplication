@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style type="text/css" media="screen">
+    body,
+input,
+textarea,
+select {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  color: #4c4c4c;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 300;
+  color: #4c4c4c;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.box h2{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.box {
+  margin: 20px auto;
+  width: 310px;
+  height: 260px;
+  -webkit-border-radius: 8px/7px;
+  -moz-border-radius: 8px/7px;
+  border-radius: 8px/7px;
+  background-color: white;
+  -webkit-box-shadow: 1px 2px 5px grey;
+  -moz-box-shadow: 1px 2px 5px grey;
+  box-shadow: 1px 2px 5px grey;
+  border: solid 1px grey;
+}
+
+.footer h4{
+  text-align: right;
+  margin-right: 30%;
+  margin-top: 30px;
+}
+
+
+input{
+  margin-top: 15px;
+  margin-left: 25%;
+  margin-right:25%;
+}
+</style>
+</head>
+    <body>
+      <h1 style="text-align:center;">userPortfolio Service</a></h1>
+    	<div class="box">
+  			<h1>Log In</h1>
+  			<form action="/" method="post">
+    			<input type="text" name="username" id="username" placeholder="Username" required/>
+    			<br>
+    			<input type="password" name="password" id="password" placeholder="Password" required/>
+    			<br>
+    			<input type="submit" class="button" value="Log In"/>
+  			</form>
+		</div>
+
+
+    {%if users%}
+    <div class="users" style="margin-left:20%">
+      <h2>Registered Users List</h2>
+      <table style="width:100%;">
+        {%for user in users%}
+          <tr>
+            <td>{{user[0]}}</td>
+          </tr>
+        {%endfor%}
+      </table>
+    </div>
+    {%endif%}
+    {%if coins%}
+    <div class="coins" style="margin-left:20%">
+      <h2>Registered Users List</h2>
+        <hr>
+        {% block content %}{% endblock %}
+    </div>
+    {%endif%}
+
+</body>
+</html>

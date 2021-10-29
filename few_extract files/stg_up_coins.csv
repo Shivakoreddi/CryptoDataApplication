@@ -1,0 +1,27 @@
+user,market_id,market_name,current_price,image
+sk,dodge,dodgeCoin,0.24,htps
+ldk,celsius-degree-token,Celsius Network,5.03,https://assets.coingecko.com/coins/images/3263/large/CEL_logo.png?1609598753
+ldk,terrausd,TerraUSD,1.0,https://assets.coingecko.com/coins/images/12681/large/UST.png?1601612407
+ldk,thorchain,THORChain,10.65,https://assets.coingecko.com/coins/images/6595/large/RUNE.png?1614160507
+ldk,havven,Synthetix Network Token,9.57,https://assets.coingecko.com/coins/images/3406/large/SNX.png?1598631139
+ldk,avalanche-2,Avalanche,64.99,https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png?1604021818
+sravani,chiliz,Chiliz,0.32361100000000004,https://assets.coingecko.com/coins/images/8834/large/Chiliz.png?1561970540
+sravani,nexo,NEXO,2.34,https://assets.coingecko.com/coins/images/3695/large/nexo.png?1548086057
+sravani,theta-fuel,Theta Fuel,0.310121,https://assets.coingecko.com/coins/images/8029/large/1_0YusgngOrriVg4ZYx4wOFQ.png?1553483622
+sravani,ecash,eCash,0.00019158,https://assets.coingecko.com/coins/images/16646/large/Logo_final-22.png?1628239446
+sravani,litecoin,Litecoin,193.05,https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580
+sk,iota,IOTA,1.33,https://assets.coingecko.com/coins/images/692/large/IOTA_Swirl.png?1604238557
+sk,dogecoin,Dogecoin,0.2496,https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1547792256
+sk,aave,Aave,312.94,https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110
+sk,safemoon,SafeMoon,2.29e-06,https://assets.coingecko.com/coins/images/14362/large/174x174-white.png?1617174846
+sk,havven,Synthetix Network Token,9.57,https://assets.coingecko.com/coins/images/3406/large/SNX.png?1598631139
+user1,axie-infinity,Axie Infinity,128.57,https://assets.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1604471082
+user1,bitcoin-gold,Bitcoin Gold,68.38,https://assets.coingecko.com/coins/images/1043/large/bitcoin-gold-logo.png?1547034978
+user1,stellar,Stellar,0.373114,https://assets.coingecko.com/coins/images/100/large/Stellar_symbol_black_RGB.png?1552356157
+user1,dogecoin,Dogecoin,0.2496,https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1547792256
+user1,sushi,Sushi,10.79,https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1606986688
+shiva,omisego,OMG Network,14.22,https://assets.coingecko.com/coins/images/776/large/OMG_Network.jpg?1591167168
+shiva,staked-ether,Lido Staked Ether,3967.35,https://assets.coingecko.com/coins/images/13442/large/steth_logo.png?1608607546
+shiva,waves,Waves,27.73,https://assets.coingecko.com/coins/images/425/large/waves.png?1548386117
+shiva,xdce-crowd-sale,XDC Network,0.106432,https://assets.coingecko.com/coins/images/2912/large/xdc-icon.png?1633700890
+shiva,huobi-token,Huobi Token,10.13,https://assets.coingecko.com/coins/images/2822/large/huobi-token-logo.png?1547036992
