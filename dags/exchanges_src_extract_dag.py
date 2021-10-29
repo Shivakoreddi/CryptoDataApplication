@@ -10,7 +10,7 @@ import sys
 
 
 
-sys.path.append('~srp_env/lib/python3.7/site-packages/')
+sys.path.append('~cda_env/lib/python3.7/site-packages/')
 
 from connectingPipelines import exchanges_src_extract
 

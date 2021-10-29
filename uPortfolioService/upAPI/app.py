@@ -7,13 +7,13 @@ import pandas as pd
 
 
 
-app = Flask(__name__, template_folder=r'C:\Users\907545\Desktop\CryptoDataApplication\uPortfolioService\upAPI\templates')
+app = Flask(__name__, template_folder=r'\CryptoDataApplication\uPortfolioService\upAPI\templates')
 app.secret_key = "super key"
 
 def insUser(user, password):
     conn = sqlite3.connect(
-        "C:/Users/907545/Desktop/CryptoDataApplication/uPortfolioService/uPortfolioDB/uPortfolio.db")
-    conn2 = sqlite3.connect("C:/Users/907545/Desktop/CryptoDataApplication/transactionDB/tradingSchema.db")
+        "/CryptoDataApplication/uPortfolioService/uPortfolioDB/uPortfolio.db")
+    conn2 = sqlite3.connect("/CryptoDataApplication/transactionDB/tradingSchema.db")
     cursor = conn.cursor()
     cursor.execute("INSERT INTO users VALUES (?,?,?)", (user, password, 'null'))
     cursor2 = conn2.cursor()
@@ -27,7 +27,7 @@ def insUser(user, password):
 
 
 def retriveUser(user):
-    conn = sqlite3.connect("C:/Users/907545/Desktop/CryptoDataApplication/uPortfolioService/uPortfolioDB/uPortfolio.db")
+    conn = sqlite3.connect("/CryptoDataApplication/uPortfolioService/uPortfolioDB/uPortfolio.db")
     cursor = conn.cursor()
     cursor.execute("select username,password from users where username='{}'".format(user))
     users = cursor.fetchall()
@@ -37,7 +37,7 @@ def retriveUser(user):
     else:
         return False
 def retriveCoins(username):
-    conn = sqlite3.connect("C:/Users/907545/Desktop/CryptoDataApplication/uPortfolioService/uPortfolioDB/uPortfolio.db")
+    conn = sqlite3.connect("/CryptoDataApplication/uPortfolioService/uPortfolioDB/uPortfolio.db")
     cursor = conn.cursor()
     cursor.execute("select market_id,market_name,current_price from up_coins where user='{}'".format(username))
     coins = cursor.fetchall()

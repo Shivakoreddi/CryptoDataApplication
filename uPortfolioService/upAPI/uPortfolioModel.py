@@ -20,7 +20,7 @@ def create_table(conn,table_query):
 
 
 def main():
-    db = r"C:/Users/907545/Desktop/CryptoDataApplication/uPortfolioService/uPortfolioDB/uPortfolio.db"
+    db = r"/CryptoDataApplication/uPortfolioService/uPortfolioDB/uPortfolio.db"
 
     users = """CREATE TABLE IF NOT EXISTS users(
     username text primary key,
