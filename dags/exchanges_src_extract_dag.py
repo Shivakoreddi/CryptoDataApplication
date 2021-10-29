@@ -1,4 +1,4 @@
-from datetime import timedelta, datetime
+from datetime import datetime
 
 from airflow import DAG
 
@@ -6,21 +6,13 @@ from airflow.operators.dummy_operator import DummyOperator
 
 from airflow.operators.python_operator import PythonOperator
 
-from airflow.models import Variable
-
-from airflow.utils.dates import days_ago
-
-
-
 import sys
 
 
 
 sys.path.append('~srp_env/lib/python3.7/site-packages/')
 
-import exchanges_src_extract
-
-
+from connectingPipelines import exchanges_src_extract
 
 default_args = {
 
