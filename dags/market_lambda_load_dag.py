@@ -59,7 +59,7 @@ def upsert_load():
 
     ##cursor = sqlite_hook.get_conn()
 
-    conn = sqlite3.connect('/home/ec2-user/srp_env/lib/python3.7/site-packages/tradingSchema.db')
+    conn = sqlite3.connect('/home/ec2-user/cda_env/lib/python3.7/site-packages/tradingSchema.db')
 
     cursor = conn.cursor()
 
